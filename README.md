@@ -69,11 +69,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiii1120&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii1120&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii1120&theme=tokyonight" />
 
 </div>
 
@@ -81,13 +81,13 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhiii1120\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Abhinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Abhinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii1120\&theme=tokyo-night)](https://github.com/abhiii1120)
 
 ---
 
@@ -122,7 +122,7 @@ https://abhiii1120.github.io/designerPortfolio/
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/abhinaymhatre1234?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ https://abhiii1120.github.io/designerPortfolio/
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abhiii1120">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -151,6 +151,6 @@ https://abhiii1120.github.io/designerPortfolio/
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=abhiii1120&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
