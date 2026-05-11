@@ -1,79 +1,118 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Abhinay Mhatre
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=250&section=header&text=Abhinay%20Mhatre&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | DSA Learner
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Abhinay Mhatre
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Learner;Building+Cool+Projects+Everyday!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Learner;Building+Scalable+Applications;Always+Learning+New+Things!" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhiii1120&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/abhiii1120?style=for-the-badge&color=00C2FF&labelColor=1a1b27"/>
+
+<img src="https://img.shields.io/github/stars/abhiii1120?style=for-the-badge&color=00C2FF&labelColor=1a1b27"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-* 🔭 Currently building **full-stack MERN applications**
-* 🌱 Learning **Advanced DSA, Next.js, and System Design**
-* 💻 Love working on **real-world projects**
-* ⚡ Interested in **Web Development & Problem Solving**
-* 🎯 Goal: Become a top software engineer
-* 📚 Solving problems regularly on **LeetCode**
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+- 🔭 Currently building **Full Stack MERN Applications**
+- 🌱 Learning **Advanced DSA, Next.js & System Design**
+- 💡 Passionate about **Web Development & Problem Solving**
+- ⚡ Love creating **Real World Scalable Projects**
+- 🎯 Goal: Become a **Top Software Engineer**
+- 📚 Solving problems consistently on **LeetCode**
+- 🚀 Exploring **Backend Architecture & APIs**
+
+<br clear="right"/>
 
 ---
 
-# 🚀 Tech Stack
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/abhiii1120">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:abhinaymhatre1234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abhinaymhatre1234/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ## 👨‍💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+<img src="https://skillicons.dev/icons?i=js,java,python" />
 
 ---
 
 ## 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge\&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind" />
 
 ---
 
 ## ⚙️ Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge\&logo=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ---
 
 ## 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visual-studio-code)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiii1120&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhiii1120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii1120&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii1120&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii1120&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii1120&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Abhinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii1120&theme=tokyo-night&hide_border=true)](https://github.com/abhiii1120)
 
 </div>
 
@@ -81,76 +120,116 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=abhiii1120\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhiii1120&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Summary
 
-[![Abhinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii1120\&theme=tokyo-night)](https://github.com/abhiii1120)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii1120&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⏰ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii1120&theme=tokyonight&utcOffset=8"/>
+
+</div>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🛒 ShopStreamLine
+<div align="center">
 
-> Full-featured MERN E-Commerce platform with:
+| Project | Description | Tech Stack |
+|----------|-------------|-------------|
+| 🛒 **ShopStreamLine** | Full-featured MERN E-Commerce platform with authentication, payments, admin dashboard & notifications | MERN, Stripe, PayPal |
+| 🎨 **Designer Portfolio** | Modern animated portfolio website with smooth UI/UX and animations | HTML, CSS, JavaScript, GSAP |
 
-* User Authentication
-* Stripe & PayPal Payments
-* Admin Dashboard
-* Real-time Notifications
-* Job Application Module
-
----
-
-## 🎨 Designer Portfolio
-
-> Modern animated portfolio website built using:
-
-* HTML
-* CSS
-* JavaScript
-* GSAP Animations
-
-🔗 Live Demo:
-https://abhiii1120.github.io/designerPortfolio/
+</div>
 
 ---
 
 # 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhinaymhatre1234?theme=dark&font=Nunito&ext=heatmap" />
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/abhinaymhatre1234?theme=dark&font=Nunito&ext=contest" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# ✍️ Random Dev Quote
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<a href="mailto:abhinaymhatre1234@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://github.com/abhiii1120">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-</p>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhiii1120/abhiii1120/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```javascript
+const abhinay = {
+    code: ["JavaScript", "Java", "Python"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "MySQL"],
+    },
+    currentFocus: "DSA & Full Stack Development",
+    funFact: "Debugging is like being a detective in a crime movie 🎯"
+};
+```
+
+---
+
+# 🔥 Fun Zone
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+### ✨ "Code • Learn • Build • Repeat"
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=abhiii1120&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=140&section=footer"/>
 
 </div>
