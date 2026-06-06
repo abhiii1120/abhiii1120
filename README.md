@@ -81,34 +81,6 @@ const abhinay = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhiii1120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii1120&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii1120&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=abhiii1120&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
 # 🌟 Featured Projects
 
 <div align="center">
