@@ -2,18 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Abhinay%20Mhatre&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20Enthusiast%20•%20DSA%20Learner&descAlignY=55&descSize=18"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=750&lines=Building+Real+World+Projects;Full+Stack+MERN+Developer;DSA+Learner+%26+Problem+Solver;Exploring+Backend+Architecture;Always+Learning+New+Things"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abhiii1120&label=Profile+Views&color=0891b2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/abhiii1120?style=for-the-badge&color=06B6D4&labelColor=111827"/>
-
-<img src="https://img.shields.io/github/stars/abhiii1120?style=for-the-badge&color=06B6D4&labelColor=111827"/>
-
 </div>
 
 ---
@@ -96,7 +84,7 @@ const abhinay = {
 
 # 🧠 LeetCode Stats
 
-<div align="center">
+<div align="center" height="fit-content">
 
 <img width="100%" src="https://leetcard.jacoblin.cool/abhinaymhatre1234?theme=dark&font=Nunito&ext=contest"/>
 
@@ -104,41 +92,12 @@ const abhinay = {
 
 ---
 
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/abhiii1120/abhiii1120/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🔥 Fun Zone
-
-<div align="center">
-
-<img width="100%" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### ✨ *"Code • Learn • Build • Repeat"*
 
 </div>
 
