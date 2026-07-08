@@ -1,65 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Abhinay%20Mhatre&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20Enthusiast%20•%20DSA%20Learner&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Abhinay%20Mhatre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20DSA&descAlignY=55&descSize=16"/>
+
+<br/>
+
+<a href="https://github.com/abhiii1120">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:abhinaymhatre1234@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/abhinaymhatre1234/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
----
+<br/>
 
-# 🚀 About Me
+## About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+I'm a Full Stack Developer focused on the MERN stack, currently deepening my backend engineering and data structures & algorithms skills. I enjoy building scalable, production-grade web applications and solving complex problems through clean, well-structured code.
 
 ```javascript
 const abhinay = {
-    location: "India",
-    currentFocus: [
-        "Full Stack Development",
-        "Advanced DSA",
-        "System Design"
-    ],
-
-    technologies: {
-        frontend: ["React", "Next.js", "Angular", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB", "MySQL"],
-    },
-
-    currentlyBuilding: "Real World Scalable MERN Applications",
-
-    funFact: "Debugging feels like solving mysteries 🕵️‍♂️"
+  location: "India",
+  currentFocus: [
+    "Full Stack Development",
+    "Advanced DSA",
+    "System Design",
+  ],
+  technologies: {
+    frontend: ["React", "Next.js", "Angular", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL"],
+  },
+  currentlyBuilding: "Scalable, real-world MERN applications",
 };
 ```
 
-<br clear="right"/>
+<br/>
 
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/abhiii1120">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:abhinaymhatre1234@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/abhinaymhatre1234/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-# 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -67,33 +52,41 @@ const abhinay = {
 
 </div>
 
----
+<br/>
 
-# 🌟 Featured Projects
+## Featured Projects
+
+<table width="100%">
+  <tr>
+    <th align="left" width="22%">Project</th>
+    <th align="left" width="53%">Description</th>
+    <th align="left" width="25%">Tech Stack</th>
+  </tr>
+  <tr>
+    <td><strong>ShopStreamLine</strong></td>
+    <td>Full-featured MERN e-commerce platform with authentication, payment integration, an admin dashboard, and notifications.</td>
+    <td>MongoDB, Express, React, Node.js, Stripe, PayPal</td>
+  </tr>
+  <tr>
+    <td><strong>Designer Portfolio</strong></td>
+    <td>Animated portfolio website with a polished UI and smooth motion design.</td>
+    <td>HTML, CSS, JavaScript, GSAP</td>
+  </tr>
+</table>
+
+<br/>
+
+## LeetCode Stats
 
 <div align="center">
-
-| Project | Description | Tech Stack |
-|----------|-------------|-------------|
-| 🛒 **ShopStreamLine** | Full-featured MERN E-Commerce platform with authentication, payments, admin dashboard & notifications | MERN, Stripe, PayPal |
-| 🎨 **Designer Portfolio** | Modern animated portfolio website with smooth UI/UX and animations | HTML, CSS, JavaScript, GSAP |
-
-</div>
-
----
-
-# 🧠 LeetCode Stats
-
-<div align="center" height="fit-content">
 
 <img width="100%" src="https://leetcard.jacoblin.cool/abhinaymhatre1234?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
----
+<br/>
 
-
-# 🐍 Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
@@ -101,10 +94,10 @@ const abhinay = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
